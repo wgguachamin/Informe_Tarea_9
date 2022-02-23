@@ -1,5 +1,5 @@
 # Informe_Tarea_9
-     ASD 
+
 1. OBJETIVOS
 
 Objetivo general

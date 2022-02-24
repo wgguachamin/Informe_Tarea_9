@@ -9,6 +9,42 @@ Objetivos específicos
 
 2. MARCO TEORICO 
 
+- CAPÍTULO 17
+
+2.1. CIRCUITOS EN SERIE
+
+![Copia de Concept map (1)](https://user-images.githubusercontent.com/94008521/155534835-a7b307c8-f5f0-41aa-9f64-40901072d3a8.png)
+
+2.2. CIRCUITOS EN PARALELO
+
+![Copia de Concept map (2)](https://user-images.githubusercontent.com/94008521/155534872-40622359-0177-4819-8923-934ab2bd7a6b.png)
+
+2.3. CIRCUITOS EN SERIE - PARALELO
+
+![Cause and effect (6)](https://user-images.githubusercontent.com/94008521/155534925-922cdb8d-4f8a-40fc-a0c1-0b93e99b286f.png)
+
+2.4. TEMAS ESPECIALES
+
+![Copia de Concept map (3)](https://user-images.githubusercontent.com/94008521/155534960-e1295ed1-6028-4139-8855-a4b56adf1c88.png)
+
+- CAPÍTULO 18
+
+2.5. FILTROS PASABAJAS
+
+![Cause and effect (7)](https://user-images.githubusercontent.com/94008521/155535085-c47d8459-2f97-4f90-98a0-8148988cef26.png)
+
+2.6. FILTROS PASAALTAS
+
+![Copia de Concept map (4)](https://user-images.githubusercontent.com/94008521/155535121-127af4ed-3869-4e02-b5b8-0291867a5238.png)
+
+2.7. FILTROS PASABANDA
+
+![Cause and effect (8)](https://user-images.githubusercontent.com/94008521/155535185-8ad61add-806c-4a7e-a354-7e20ee2120e0.png)
+
+2.8. FILTROS RECHAZABANDA 
+
+![Copia de Concept map (5)](https://user-images.githubusercontent.com/94008521/155535237-3c35b489-55a2-459a-9350-f8cea42231c7.png)
+
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
         CAPITULO 17 
@@ -149,9 +185,6 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 35.Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Ω conectado de a a b en la figura 17-69?
 
 ![image](https://user-images.githubusercontent.com/93960809/155531881-f7e9366a-5b06-45f2-a507-8aef2e98468d.png)
-
-![image](https://user-images.githubusercontent.com/93415377/155535183-3f07ed42-5edf-4a15-8328-35b4f98f83ef.png)
-
 
 37.Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
 

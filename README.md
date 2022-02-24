@@ -247,6 +247,8 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 4. VIDEO
 
+https://www.youtube.com/watch?v=KAdeoOMgnkc
+
 5. CONCLUSIONES
 
 6. BIBLIOGRAFÍA

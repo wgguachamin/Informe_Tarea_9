@@ -109,7 +109,19 @@ SECCIÓN 17–6 Resonancia en paralelo
 
 23.Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.
 
+![image](https://user-images.githubusercontent.com/93960809/155531083-cf7bf62f-7d09-4288-900c-9c782fdf8e33.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155531118-4a259086-16ef-4c29-a229-275bcff0c5b6.png)
+
+En un circuito resonante la impedancia es infinita dado que la corriente total es de cero. Para hallar el valor de la frecuencia resonante se usa la fórmula especificada arriba a fin de encontrar el dato solicitado. 
+
 25.Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
+
+![image](https://user-images.githubusercontent.com/93960809/155531162-87b51c7e-024c-4fb8-9786-c18afa317324.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155531202-5a3e2ceb-dcec-4f90-bfde-67016f7d5721.png)
+
+Para resolver este ejercicio y hallar los respectivos datos solicitados en los literales, primero se calcula el valor de la frecuencia resonante. Luego se procede a hallar las reactancias mediante lo cual se determina que este es un circuito capacitivo. Se halla el valor de la impedancia y mediante la ley de ohm se encuentra la corriente, finalmente con los datos ya obtenidos se utilizan las fórmulas de potencia.
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 

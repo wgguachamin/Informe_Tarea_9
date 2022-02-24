@@ -2,10 +2,14 @@
 
 1. OBJETIVOS
 
-Objetivo general
+1.1. OBJETIVO GENERAL
 
+Analizar el comportamiento de los circuitos RCL y de los filtros pasivos, mediante el análisis de los capítulos 17 y 18 del libro "Principios de circuitos eléctricos" de Thomas Floyd, con el fin de desarrollar correctamente los ejercicios planteados en ambos capítulos y aplicar los conocimientos adquiridos en clase.
 
-Objetivos específicos
+1.2. OBJETIVOS ESPECÍFICOS
+
+-	Determinar el comportamiento de la impedancia en un circuito en serie, para realizar el análisis correcto del mismo. 
+-	Identificar el significado de decibeles, para entender su relación con los diferentes tipos de filtros pasivos.
 
 2. MARCO TEORICO 
 
@@ -311,11 +315,13 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 ![image](https://user-images.githubusercontent.com/93415377/155429429-f92537ca-8df6-4a76-b54d-f8940f0a00c6.png)
 
-
 4. VIDEO
 
 https://www.youtube.com/watch?v=KAdeoOMgnkc
 
 5. CONCLUSIONES
+
+-	Como se pudo analizar durante el capítulo 17, en un circuito RCL en serie típico la impedancia total se comporta de la siguiente manera, al momento de comenzar con una frecuencia muy baja, XC es alta, XL es baja, por lo que el circuito es predominantemente capacitivo. 
+-	Con respecto al termino decibeles se puede terminar que, este es una unidad que se deriva de la respuesta logarítmica que el oído humano presenta a la intensidad de sonido, así mismo esta unidad posee una relación de una potencia a otra y de un voltaje a otro, dentro de los filtros pasivos se lo utiliza para expresar o explicar la relación de entrada a salida de un filtro.
 
 6. BIBLIOGRAFÍA

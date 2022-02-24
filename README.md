@@ -91,7 +91,19 @@ SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
 
 19.Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.
 
+![image](https://user-images.githubusercontent.com/93960809/155459294-5a614259-c69e-4c36-a933-7a7932c6c523.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155459316-37cf59f4-fc30-481c-9fc9-a1de6ab90f04.png)
+
+Para determinar todas las corrientes y voltajes primero se halla el valor de las reactancias y luego despejando la corriente y el voltaje de la ley de ohm se obtienen cada uno de los valores solicitados.
+
 21.Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19.
+
+![image](https://user-images.githubusercontent.com/93960809/155459330-341b776e-4d09-4a7b-9b51-4e56199208fb.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155459356-787f9fda-ebf3-4e88-adaf-4ec902347236.png)
+
+Para determinar todas las corrientes y voltajes primero se halla el valor de las reactancias y luego despejando la corriente y el voltaje de la ley de ohm se obtienen cada uno de los valores solicitados.
 
 SECCIÓN 17–6 Resonancia en paralelo
 

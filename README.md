@@ -81,6 +81,12 @@ SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo *
 
 17.¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.
 
+![image](https://user-images.githubusercontent.com/93960809/155454514-672a7daf-5b7d-4078-8676-328e3fe19191.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155454535-5725dc9c-f414-47d5-bfa7-1d853d092c35.png)
+
+El circuito es inductivo debido a que el valor de reactancia inductiva es menor al valor de reactancia capacitiva, ya que en circuitos RLC paralelos la cantidad más pequeña tiene el efecto más grande en la corriente total porque su corriente es máxima.
+
 SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
 
 19.Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.

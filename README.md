@@ -19,6 +19,8 @@ SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 1.Cierto circuito RLC en serie tiene los siguientes valores: R=10Ω, C =0.047 mF, y L= 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.
 
+a
+
 3.Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
 
 SECCIÓN 17–2 Análisis de circuitos RLC en serie

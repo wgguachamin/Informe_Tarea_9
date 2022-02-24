@@ -51,7 +51,17 @@ SECCIÓN 17–3 Resonancia en serie
 
 9.Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?
 
+![image](https://user-images.githubusercontent.com/93960809/155448661-ba1b3a54-76f7-4d2a-b1dd-c5487f9808ac.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155448690-3791308d-707b-4b44-a2df-c49631287425.png)
+
+Para hallar el valor del voltaje, teniendo en cuenta que el circuito se encuentra en condición de resonancia, se conoce que la impedancia es puramente resistiva. Luego con el valor de impedancia y aplicando la ley de ohm se encuentra el valor de voltaje a través de la resistencia. 
+
 11.Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+
+![image](https://user-images.githubusercontent.com/93960809/155448732-f0d625c1-da95-4d8c-8db8-ec4f2414b70f.png)
+
+Mediante los datos que da el enunciado del ejercicio y despejando impedancia y reactancia de las fórmulas de la ley de ohm se obtienen los datos solicitados. Al ser un circuito resonante XL es igual a Xc. 
 
 13.Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
 

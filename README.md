@@ -19,15 +19,33 @@ SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 1.Cierto circuito RLC en serie tiene los siguientes valores: R=10Ω, C =0.047 mF, y L= 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.
 
-a
+![image](https://user-images.githubusercontent.com/93960809/155445443-cfaab9c4-20a1-4cfb-a6d8-170c3feeb030.png)
+
+Para el desarrollo de este ejercicio, en primer lugar, se halla los valores de reactancia tanto para el capacitor como para el inductor. Luego se determina cuál es el mayor valor de reactancia para identificar si el circuito es predominante capacitivo o predominante inductivo. Se halla el valor de reactancia neta o total y luego se encuentra el valor de la impedancia en su forma polar, como se puede ver el ángulo es positivo debido a que es un circuito inductivo.
 
 3.Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
+
+![image](https://user-images.githubusercontent.com/93960809/155445530-3838267a-2d7f-4941-be38-3f6cf088e5b8.png)
+
+Si se duplica la frecuencia esto quiere decir que dicha frecuencia se va a aumentar por tanto el valor de las reactancias capacitivas al ser inversos a la frecuencia van a disminuir, mientras que el valor de la reactancia inductiva se va a aumentar debido a que esto es proporcional a la frecuencia. Por tanto, la magnitud de la impedancia va a cambiar de modo que se va a disminuir dicha magnitud de impedancia. 
 
 SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
 5.Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
 
-7.Analice el circuito de la figura 17-60 para determinar lo siguiente (f = 25 kHz):
+![image](https://user-images.githubusercontent.com/93960809/155445585-7e90db47-6c39-49b4-be83-7ff773acc4cb.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155445617-703f77ce-8b21-42fa-be8d-21cbda10ab38.png)
+
+Para hallar los datos que se solicita de este circuito, primero se halla el valor de la impedancia en polares y luego mediante la ley de ohm se calcula tanto el valor de corriente como de voltajes. 
+
+7.Analice el circuito de la figura 17-60 para determinar lo siguiente (f = 25 kHz): (a) Itot (b) Preal (c) Pr (d) Pa
+
+![image](https://user-images.githubusercontent.com/93960809/155445647-cf76a8d8-3acd-4499-948e-4d5d0cdf3133.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155445772-a974647e-f006-40f1-aac3-a770b840b72d.png)
+
+Para resolver este ejercicio y hallar los respectivos datos solicitados en los literales, primero se calcula el valor de resistencia, inductancia y capacitancia total. Luego se procede a hallar las reactancias mediante lo cual se determina que este es un circuito capacitivo. Se halla el valor de la impedancia y mediante la ley de ohm se encuentra la corriente, finalmente con los datos ya obtenidos se utilizan las fórmulas de potencia.
 
 SECCIÓN 17–3 Resonancia en serie
 

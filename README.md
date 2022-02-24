@@ -186,6 +186,9 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/93960809/155531881-f7e9366a-5b06-45f2-a507-8aef2e98468d.png)
 
+![image](https://user-images.githubusercontent.com/93415377/155535911-9f97f205-892b-48bf-b679-17cb85b07858.png)
+
+
 37.Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
 
 ![image](https://user-images.githubusercontent.com/93415377/155426462-39107a04-9228-4cfc-8d77-6dc770ddc900.png)

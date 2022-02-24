@@ -65,7 +65,15 @@ Mediante los datos que da el enunciado del ejercicio y despejando impedancia y r
 
 13.Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
 
+![image](https://user-images.githubusercontent.com/93960809/155452865-114aa48a-d570-46e1-a41d-e30bdc37ed6a.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155452886-65b6b3bc-9eca-43ba-b7d8-a842b06a50fa.png)
+
+Para determinar el valor de la corriente, se halla primero el valor de la impedancia y luego mediante la ley de ohm se procede a encontrar la corriente. 
+
 15.Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador:
+
+![image](https://user-images.githubusercontent.com/93960809/155453162-af3868b4-f340-4639-b761-fc4292ddb90d.png)
 
 PARTE 2: CIRCUITOS EN PARALELO
 

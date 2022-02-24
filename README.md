@@ -9,6 +9,42 @@ Objetivos específicos
 
 2. MARCO TEORICO 
 
+- CAPITULO 17
+
+2.1. CIRCUITOS EN SERIE
+
+![Copia de Concept map (1)](https://user-images.githubusercontent.com/94008521/155533154-465eff0a-037c-45cd-8f32-48f86bcfe134.png)
+
+2.2. CIRCUITOS EN PARALELO
+
+![Copia de Concept map (2)](https://user-images.githubusercontent.com/94008521/155533212-183c93d1-80c8-4512-a76f-1a9ca7926761.png)
+
+2.3. CIRCUITOS EN SERIE - PARALELO
+
+![Cause and effect (6)](https://user-images.githubusercontent.com/94008521/155533280-91743f58-e04b-45db-8e60-e76f55d5e626.png)
+
+2.4. TEMAS ESPECIALES
+
+![Copia de Concept map (3)](https://user-images.githubusercontent.com/94008521/155533327-ff474f57-7404-434f-87bf-eb9930d42967.png)
+
+- CAPÍTULO 18
+
+2.5. FILTROS PASABAJAS
+
+![Cause and effect (7)](https://user-images.githubusercontent.com/94008521/155533477-5c70b0f2-5110-4436-8076-d7185c3e70b1.png)
+
+2.6. FILTROS PASAALTAS
+
+![Copia de Concept map (4)](https://user-images.githubusercontent.com/94008521/155533570-222e0d01-20cf-4426-b149-877e3eab6688.png)
+
+2.7. FILTROS PASABANDA
+
+![Cause and effect (8)](https://user-images.githubusercontent.com/94008521/155533623-738bf419-7471-4d6e-b623-967eb379b242.png)
+
+2.8. FILTROS RECHAZABANDA
+
+![Copia de Concept map (5)](https://user-images.githubusercontent.com/94008521/155533680-b3494428-fc5a-4be9-9a92-fbf8c5f706fa.png)
+
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
         CAPITULO 17 

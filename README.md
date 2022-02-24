@@ -222,6 +222,9 @@ SECCIÓN 18–3 Filtros pasabanda
 
 19.¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0.
 
+![image](https://user-images.githubusercontent.com/93415377/155530871-4305402e-a797-4e0e-a43c-d456d3e09f1f.png)
+
+
 21.Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent =120 V?
 
 ![image](https://user-images.githubusercontent.com/93415377/155429015-59ea19c5-101f-4a8e-a650-09e7573d7096.png)

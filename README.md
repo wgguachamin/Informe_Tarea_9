@@ -129,13 +129,26 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 27.Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente y la corriente total.
 
+![image](https://user-images.githubusercontent.com/93960809/155531724-57c72e2c-c2d3-4a1c-8c0d-77d8abcfba02.png)
+
+
 29.Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
+
+![image](https://user-images.githubusercontent.com/93960809/155531748-d677c9e1-0dc8-4780-b855-c3e48722b2f7.png)
+
 
 31.En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
 
+![image](https://user-images.githubusercontent.com/93960809/155531764-82a08534-3220-4c34-b845-85737d3f5fc4.png)
+
+
 33.Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
 
+![image](https://user-images.githubusercontent.com/93960809/155531788-82898748-f16b-4327-bdb2-d8e11d7e3538.png)
+
 35.Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Ω conectado de a a b en la figura 17-69?
+
+![image](https://user-images.githubusercontent.com/93960809/155531881-f7e9366a-5b06-45f2-a507-8aef2e98468d.png)
 
 37.Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
 

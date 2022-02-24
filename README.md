@@ -171,20 +171,37 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/93960809/155531724-57c72e2c-c2d3-4a1c-8c0d-77d8abcfba02.png)
 
+![image](https://user-images.githubusercontent.com/93960809/155544025-c6cdb3e1-0e2b-45f9-a999-1a2572b980cc.png)
+
+Para el circuito a:
+
+![image](https://user-images.githubusercontent.com/93960809/155544076-f0a8f233-dc05-4db0-9b3d-d574e9d805d0.png)
+
+Para el circuito b: 
+
+![image](https://user-images.githubusercontent.com/93960809/155544122-666c3832-d215-4e04-8939-9400a647ffdb.png)
 
 29.Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
 
 ![image](https://user-images.githubusercontent.com/93960809/155531748-d677c9e1-0dc8-4780-b855-c3e48722b2f7.png)
 
+![image](https://user-images.githubusercontent.com/93960809/155544174-a4c0a7d4-42a3-4f70-a671-64b96f539057.png)
+
+El nuevo circuito tiene como resistencia 49.03k ohmios y un valor de inductancia de 17.44kH. 
 
 31.En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
 
 ![image](https://user-images.githubusercontent.com/93960809/155531764-82a08534-3220-4c34-b845-85737d3f5fc4.png)
 
+![image](https://user-images.githubusercontent.com/93960809/155544295-8e68f0c3-43d0-42d6-8e9a-fd305ff78a16.png)
+
+Para determinar lo solicitado en este ejercicio primero se halla el valor de las reactancias para así calcular la impedancia y mediante la ley de ohm se halla lo requerido por el enunciado del ejercicio. 
 
 33.Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
 
 ![image](https://user-images.githubusercontent.com/93960809/155531788-82898748-f16b-4327-bdb2-d8e11d7e3538.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155544363-e02c58f4-ce76-4e00-8447-63886667a864.png)
 
 35.Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Ω conectado de a a b en la figura 17-69?
 

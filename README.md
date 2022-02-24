@@ -4,7 +4,7 @@
 
 1.1. OBJETIVO GENERAL
 
-Analizar el comportamiento de los circuitos RCL y de los filtros pasivos, mediante el análisis de los capítulos 17 y 18 del libro "Principios de circuitos eléctricos" de Thomas Floyd, con el fin de desarrollar correctamente los ejercicios planteados en ambos capítulos y aplicar los conocimientos adquiridos en clase.
+Analizar el comportamiento de los circuitos RLC y de los filtros pasivos, mediante el análisis de los capítulos 17 y 18 del libro "Principios de circuitos eléctricos" de Thomas Floyd, con el fin de desarrollar correctamente los ejercicios planteados en ambos capítulos y aplicar los conocimientos adquiridos en clase.
 
 1.2. OBJETIVOS ESPECÍFICOS
 
@@ -321,7 +321,13 @@ https://www.youtube.com/watch?v=KAdeoOMgnkc
 
 5. CONCLUSIONES
 
--	Como se pudo analizar durante el capítulo 17, en un circuito RCL en serie típico la impedancia total se comporta de la siguiente manera, al momento de comenzar con una frecuencia muy baja, XC es alta, XL es baja, por lo que el circuito es predominantemente capacitivo. 
+-	Como se pudo analizar durante el capítulo 17, en un circuito RLC en serie típico la impedancia total se comporta de la siguiente manera, al momento de comenzar con una frecuencia muy baja, XC es alta, XL es baja, por lo que el circuito es predominantemente capacitivo. 
 -	Con respecto al termino decibeles se puede terminar que, este es una unidad que se deriva de la respuesta logarítmica que el oído humano presenta a la intensidad de sonido, así mismo esta unidad posee una relación de una potencia a otra y de un voltaje a otro, dentro de los filtros pasivos se lo utiliza para expresar o explicar la relación de entrada a salida de un filtro.
 
 6. BIBLIOGRAFÍA
+
+-	Irwin, J. David, Análisis básico de circuitos en ingeniería, Prentice Hall Hispanoamericana, 1997, ISBN: 968-880-816-4.
+-	Humphries J.T. y Sheets L.P., Electrónica industrial: Dispositivos, Máquinas y Sistemas de potencia industrial, Paraninfo, 1993, ISBN: 84-283-2278-3
+-	Purcell, E. M. (1969). Berkeley physics course, volumen 2, Electricidad y Magnetismo. Reverté, Barcelona. 
+-	Salvador, G., Rodriguez, R. (2002). Física Re-Creativa. Prentice Hall, Buenos Aires.
+-	Floyd, T. (2007). Principios de circuitos eléctricos. Monterrey: Pearson.
